@@ -1,0 +1,26 @@
+[
+   {"codigo":1,
+    "nome": "Fulano",
+    "endereco": {
+      "rua": "Marcondes Salgado",
+      "numero": 386,
+      "bairro": "Centro"
+    }
+   },
+   {"codigo":2,
+    "nome": "Sicrano",
+    "endereco": {
+      "rua": "Das Avencas",
+      "numero": 16,
+      "bairro": "Jardim Brasil 3"
+    }
+   },
+   {"codigo":3,
+    "nome": "Bertano",
+    "endereco": {
+      "rua": "João Gabriel",
+      "numero": 736,
+      "bairro": "Residencial Bechara 3"
+    }
+   }
+]
